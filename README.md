@@ -18,8 +18,8 @@ A lightweight Python CLI tool to scan a specified directory or current directory
 
 ## ⚙️ Installation
 
-git clone https://github.com/MO-Munyai/SubDirectory_Scanner.git
-cd SubDirectory_Scanner
+- git clone https://github.com/MO-Munyai/SubDirectory_Scanner.git
+- cd SubDirectory_Scanner
 
 ---
 ## How To Run
