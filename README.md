@@ -22,10 +22,10 @@ A lightweight Python CLI tool to scan a specified directory or current directory
 - cd SubDirectory_Scanner
 
 ---
-## How To Run
-- Scan only top-level folders under current directory
-python directory_scanner.py 
+# How To Run
+## Scan only top-level folders under current directory
+-python directory_scanner.py 
 
- - Scan specific directory 
-python directory_scanner.py {directory path}
+## Scan specific directory 
+- python directory_scanner.py {directory path}
 
