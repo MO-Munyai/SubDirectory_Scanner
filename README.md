@@ -12,7 +12,7 @@ A lightweight Python CLI tool to scan a specified directory or current directory
 
 ## ✅ Prerequisites
 
-- Python 3.6+
+- Python 3+
 
 ---
 
